@@ -1,5 +1,5 @@
 ## A Hands-on Workshop series in Machine Learning 
-Timing: **3-5 pm PST** on **Tuesdays** and **Fridays** from **March 22** to **Nov 17, 2023** (**7 sessions** in total)  
+Timing: **3-5 pm PST** on **Tuesdays** and **Fridays** from **March 22** to **April 12, 2024** (**7 sessions** in total)  
 Where: Room 3485 in Shanahan Center or remotely via Zoom (link will be shared when you [register](https://forms.gle/9VHRJqoqnYeM4LDT6))
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
