@@ -1,5 +1,5 @@
 ## A Hands-on Workshop series in Machine Learning 
-Timing: **3-5 pm PST** on **Tuesdays** and **Fridays** from **March 22** to **April 12, 2024** (**7 sessions** in total)  
+Timing: **3-5 pm PST** on **Tuesdays** and **Fridays** from **March 22** to **April 16, 2024** (**7 sessions** in total, no session on March 29th holiday)  
 Where: Room 3485 in Shanahan Center or remotely via Zoom (link will be shared when you [register](https://forms.gle/9VHRJqoqnYeM4LDT6))
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem and is targeted towards complete beginners familiar with Python. 
@@ -43,13 +43,13 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 * Binary classification algorithm: Logistic Regression
 * Underfitting and Overfitting to the training dataset; Model cross-validation 
 
-#### 3. A Gentle Introduction to Neural Networks (Friday, March 29, 2024)
+#### 3. A Gentle Introduction to Neural Networks (Tuesday, April 2, 2024)
 * Neural networks: Building the intuition of the architecture and the iterative learning process 
 * An exercise on implementing AND and OR gates using Perceptron by trial-and-error 
 * Multi-Layer Perception: Forward and Backward propagation
 * One-hot encoding for categorical features
 
-#### 4. Fine-tuning Neural Networks (Tuesday, April 2, 2024)
+#### 4. Fine-tuning Neural Networks (Friday, April 5, 2024)
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
@@ -59,18 +59,18 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 * Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, etc.
 * Application of the above concepts on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
 
-#### 5. Convolution Neural Networks (Friday, April 5, 2024)
+#### 5. Convolution Neural Networks (Tuesday, April 9, 2024)
 * Image preprocessing for neural networks
 * Feature extraction using convolution filters
 * Convolution Neural Network architecture (CNN)
 * Training a CNN model on CIFAR-10 dataset
 
-#### 6. Recurrent Neural Networks (Tuesday, April 9, 2024)
+#### 6. Recurrent Neural Networks (Friday, April 12, 2024)
 * Recurrent Neural Networks (RNN)
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
 
 
-#### 7. Transformer models (Friday, April 12, 2024)
+#### 7. Transformer models (Tuesday, April 16, 2024)
 * Transformer model architecture (used in models such as chatGPT)
 * Mini-project: Building an AI chatbot for HMC Helpdesk
 
